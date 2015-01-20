@@ -1,13 +1,17 @@
 ---
-title: Open Source Technologies
+title: Open and Closed Source Technologies
 layout: default
 ---
 
-A partial list of core open source technologies used by our research group.
-Most of these technologies are used in production code that is
-almost always running. 
-Of course, many of these technologies are themselves built upon other open
-source technologies.
+## Use open source most of the time
+
+I use closed software (Mac OS X, BBEdit, Safari/Chrome) to develop some open and some closed software using entirely open source packages.
+I am trying to convince collaborators and U of A to open source most of our work.
+I doubt that you'll convince me to give up my Mac or BBEdit, but I am open to ideas not named CentOS and emacs.
+
+Below is a partial list of core open source technologies used by our research group.
+Most of these technologies are used in production code that is almost always running.
+Of course, many of these technologies are themselves built upon other open source technologies.
 
 * Python
 * Pandas
@@ -28,7 +32,7 @@ source technologies.
 * Mozilla Firefox
 * LaTeX
 
-A partial list of closed source technologies used by our research group.
+Below is a partial list of closed source technologies used by our research group.
 Only Raspberry Pis are used for real-time operations.
 
 * Windows
