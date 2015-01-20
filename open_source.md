@@ -1,3 +1,8 @@
+---
+title: Open Source Technologies
+layout: default
+---
+
 A partial list of core open source technologies used by our research group.
 Most of these technologies are used in production code that is
 almost always running. 
@@ -23,7 +28,7 @@ source technologies.
 * Mozilla Firefox
 * LaTeX
 
-Here's a partial list of closed source technologies used by our research group.
+A partial list of closed source technologies used by our research group.
 Only Raspberry Pis are used for real-time operations.
 
 * Windows

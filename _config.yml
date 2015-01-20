@@ -1,0 +1,9 @@
+name: "Will Holmgren"
+description: "Will Holmgren"
+
+#baseurl: "/wholmgren.github.io"
+#paginate: 10
+
+markdown: rdiscount
+permalink: none
+highlighter: true
