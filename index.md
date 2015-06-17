@@ -12,13 +12,19 @@ Department of Atmospheric Sciences<br>
 University of Arizona
 </p>
 
-<p>
+<ul>
+<li>
 I make renewable power forecasts for utilities in the Southwest US. Learn more about our work at <a href="https://forecasting.uaren.org">forecasting.uaren.org</a>.
-</p>
+</li>
 
-<p>
+<li>
 I lead the design and implementation of <a href="https://sveri.uaren.org">sveri.uaren.org</a>, a interactive website that shows near real-time production and load data from 7 utilities in the Southwest US. Downloadable data!
-</p>
+</li>
+
+<li>
+I co-administer the <a href="https://github.com/pvlib/pvlib-python">pvlib-python</a> project, an open source Python library for solar energy modeling.
+</li>
+</ul>
 
 
 <h3>
