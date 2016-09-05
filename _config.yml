@@ -4,6 +4,6 @@ description: "Will Holmgren"
 #baseurl: "/wholmgren.github.io"
 #paginate: 10
 
-markdown: rdiscount
+markdown: kramdown
 permalink: none
 highlighter: true
