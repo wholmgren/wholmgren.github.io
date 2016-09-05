@@ -21,11 +21,11 @@ This following is a shameless list of my professional activities, but none of it
 </p>
 
 <p>
-I make renewable power forecasts for utilities in the Southwest US using data from high resolution regional weather models, satellite imagery, and rooftop solar panel generation. I am of co-author of Tony Lorenzo's <a href="http://dx.doi.org/10.1016/j.solener.2015.10.038">paper</a> on the <i>network forecast</i> technique. Learn more about our work at <a href="https://forecasting.uaren.org">forecasting.uaren.org</a>.
+I make solar and wind power forecasts for utilities in the Southwest US using data from the <a href="http://www.atmo.arizona.edu/index.php?section=weather&id=wrf">UA high resolution regional weather model</a>, satellite imagery, and rooftop solar panel generation. I advised Tony Lorenzo's papers on <a href="http://dx.doi.org/10.1016/j.solener.2015.10.038">network forecasts of solar irradiance</a> and <a href="https://forecasting.energy.arizona.edu/media/Lorenzo_et_al_2016_Optimal_Interpolation_of_satellite_derived_irradiance_and_ground_data.pdf">optimal interpolation of satellite imagery for solar irradiance resource assessment</a>. Learn more about our forecasting work at <a href="https://forecasting.energy.arizona.edu">forecasting.energy.arizona.edu</a>.
 </p>
 
 <p>
-I lead a team in the creation of <a href="https://sveri.uaren.org">sveri.uaren.org</a>, a interactive website that shows real-time production and load data from 7 utilities in the Southwest US.
+I lead a team in creating <a href="https://sveri.energy.arizona.edu">sveri.energy.arizona.edu</a>, an interactive website that shows real-time generation and load data from 7 utilities in the Southwest US.
 </p>
 
 <p>
@@ -33,11 +33,11 @@ I collaborated with the SVERI utilities to produce a report on solar and wind po
 </p>
 
 <p>
-I co-administer the <a href="https://github.com/pvlib/pvlib-python">pvlib-python</a> project, an open source Python library for solar energy modeling.
+I co-administer the pvlib-python project, an open source Python library for solar energy modeling  (<a href="https://github.com/pvlib/pvlib-python">github</a>, <a href="http://pvlib-python.readthedocs.io">documentation</a>).
 </p>
 
 <p>
-I created <a href="http://forecasting.energy.arizona.edu/precip-d3/">precip-d3</a>, an interactive website that explores the impact of El Niño on seasonal rainfall in Tucson, AZ.
+I created <a href="http://forecasting.energy.arizona.edu/precip-d3/">precip-d3</a>, an interactive website that explores the impact of El Niño on seasonal rainfall in Tucson, AZ (or any gauge in the RCC-ACIS system!).
 </p>
 
 <p>
@@ -73,7 +73,7 @@ Hiking, rock climbing, biking from A to B.
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Collaborators</h3>
 
 <p>
-Energy and weather: Mike Leuthold, Tony Lorenzo, Eric Betterton, Ardeth Barnhart, Alex Cronin, Yang Cao, Chang Ki Kim, Daniel Cormode, Rey Granillo, Mike Eklund, J.D. Gibbs, Craig Boesewetter
+Energy and weather: Mike Leuthold, Tony Lorenzo, Eric Betterton, Ardeth Barnhart, Alex Cronin, Travis Harty, Matti Morzfeld, Yang Cao, Chang Ki Kim, Daniel Cormode, Rey Granillo, Mike Eklund, J.D. Gibbs, Craig Boesewetter
 </p>
 
 <p>
