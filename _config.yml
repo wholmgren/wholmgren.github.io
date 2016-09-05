@@ -6,4 +6,4 @@ description: "Will Holmgren"
 
 markdown: kramdown
 permalink: none
-highlighter: true
+highlighter: rouge
