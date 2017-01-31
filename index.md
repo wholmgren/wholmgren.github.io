@@ -7,8 +7,8 @@ layout: default
 <a id="welcome" class="anchor" href="#welcome" aria-hidden="true"><span class="octicon octicon-link"></span></a>Will Holmgren</h3>
 
 <p>
-DOE EERE Postdoctoral Fellow<br>
-Department of Atmospheric Sciences<br>
+Assistant Research Professor<br>
+Department of Hydrology and Atmospheric Sciences<br>
 University of Arizona<br>
 <a href="mailto:holmgren@email.arizona.edu">holmgren@email.arizona.edu</a>
 </p>
@@ -80,4 +80,4 @@ Energy and weather: Mike Leuthold, Tony Lorenzo, Eric Betterton, Ardeth Barnhart
 Atomic physics: Alex Cronin, Vincent Lonij, Ivan Hromada, Raisa Trubko, Maxwell Gregoire
 </p>
 
-            
+
