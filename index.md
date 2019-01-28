@@ -17,7 +17,15 @@ University of Arizona<br>
 <a id="welcome" class="anchor" href="#welcome" aria-hidden="true"><span class="octicon octicon-link"></span></a>Projects</h3>
 
 <p>
-This following is a shameless list of my professional activities, but none of it would be possible without a large number of <a href="#collaborators">great people</a> that I am lucky to be able to work with.
+This following is a list of my professional activities, but none of it would be possible without a large number of <a href="#collaborators">great people</a> that I am lucky to be able to work with.
+</p>
+
+<p>
+I am the PI of a project to create an open source framework for solar forecast evaluations, the <a href="https://solarforecastarbiter.org/">Solar Forecast Arbiter</a>. The work is funded by the <a href="https://www.energy.gov/solar-office">U.S. Department of Energy Solar Energy Technologies Office</a> under Award Number DE-EE0008214. 
+</p>
+
+<p>
+I co-administer the pvlib-python project, an open source Python library for solar energy modeling  (<a href="https://github.com/pvlib/pvlib-python">github</a>, <a href="https://pvlib-python.readthedocs.io">documentation</a>).
 </p>
 
 <p>
@@ -25,15 +33,11 @@ I make solar and wind power forecasts for utilities in the Southwest US using da
 </p>
 
 <p>
-I lead a team in creating <a href="https://sveri.energy.arizona.edu">sveri.energy.arizona.edu</a>, an interactive website that shows real-time generation and load data from 7 utilities in the Southwest US.
+I collaborated with the SVERI utilities to produce a report on solar and wind power variability over 6 months in the Southwest based on utility generation data. The report presents novel analysis of how solar and wind variability depends on the time of day and time of year in the Southwest U.S. The public version of the report is available <a href="https://forecasting.energy.arizona.edu/media/papers/ua-sveri-public.pdf">here</a>.
 </p>
 
 <p>
-I collaborated with the SVERI utilities to produce a report on solar and wind power variability over 6 months in the Southwest based on utility generation data. The report presents novel analysis of how solar and wind variability depends on the time of day and time of year in the Southwest U.S. The public version of the report is available on <a href="http://sveri.net">sveri.net</a>.
-</p>
-
-<p>
-I co-administer the pvlib-python project, an open source Python library for solar energy modeling  (<a href="https://github.com/pvlib/pvlib-python">github</a>, <a href="http://pvlib-python.readthedocs.io">documentation</a>).
+I lead a team in creating sveri.energy.arizona.edu, an interactive website that showed real-time generation and load data from 7 utilities in the Southwest US. The page is now retired.
 </p>
 
 <p>
@@ -61,7 +65,7 @@ I'm <a href="https://twitter.com/willholmgren">@willholmgren</a> on Twitter.
 </p>
 
 <p>
-<a href="cv.pdf">My CV (pdf).</a>
+<a href="cv.pdf">My probably out of date CV (pdf).</a>
 </p>
 
 <p>
@@ -77,7 +81,15 @@ Hiking, rock climbing, biking from A to B.
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Collaborators</h3>
 
 <p>
-Energy and weather: Mike Leuthold, Tony Lorenzo, Eric Betterton, Ardeth Barnhart, Alex Cronin, Travis Harty, Matti Morzfeld, Yang Cao, Chang Ki Kim, Daniel Cormode, Rey Granillo, Mike Eklund, J.D. Gibbs, Craig Boesewetter
+Solar Forecast Arbiter: Tony Lorenzo, Leland Boeman, Cliff Hansen (Sandia), Aidan Tuohy (Electric Power Research Institute), Justin Sharp (Sharply Focused)
+</p>
+
+<p>
+Forecasting at UA: Mike Leuthold, Tony Lorenzo, Leland Boeman, Travis Harty, Matti Morzfeld, Eric Betterton, Ardeth Barnhart, Alex Cronin, Yang Cao, Chang Ki Kim, Daniel Cormode, Rey Granillo, Mike Eklund
+</p>
+
+<p>
+pvlib python: Cliff Hansen, Mark Mikofski, and many other <a href="https://github.com/pvlib/pvlib-python/graphs/contributors">contributors</a> to the project.
 </p>
 
 <p>
