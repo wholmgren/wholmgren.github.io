@@ -10,7 +10,7 @@ layout: default
 Assistant Research Professor<br>
 Department of Hydrology and Atmospheric Sciences<br>
 University of Arizona<br>
-<a href="mailto:holmgren@email.arizona.edu">holmgren@email.arizona.edu</a>
+<a href="mailto:holmgren@arizona.edu">holmgren@arizona.edu</a>
 </p>
 
 <h3>
@@ -21,15 +21,15 @@ This following is a list of my professional activities, but none of it would be 
 </p>
 
 <p>
-I am the PI of a project to create an open source framework for solar forecast evaluations, the <a href="https://solarforecastarbiter.org/">Solar Forecast Arbiter</a>. The work is funded by the <a href="https://www.energy.gov/solar-office">U.S. Department of Energy Solar Energy Technologies Office</a> under Award Number DE-EE0008214. 
+I am the PI of a project to create an open source framework for solar forecast evaluations, the <a href="https://solarforecastarbiter.org/">Solar Forecast Arbiter</a>. The work is funded by the <a href="https://www.energy.gov/solar-office">U.S. Department of Energy Solar Energy Technologies Office</a> under Award Number DE-EE0008214.
 </p>
 
 <p>
-I co-administer the pvlib-python project, an open source Python library for solar energy modeling  (<a href="https://github.com/pvlib/pvlib-python">github</a>, <a href="https://pvlib-python.readthedocs.io">documentation</a>).
+I co-administer the pvlib python project, an open source Python library for solar energy modeling  (<a href="https://github.com/pvlib/pvlib-python">github</a>, <a href="https://pvlib-python.readthedocs.io">documentation</a>).
 </p>
 
 <p>
-I make solar and wind power forecasts for utilities in the Southwest US using data from the <a href="http://www.atmo.arizona.edu/index.php?section=weather&id=wrf">UA high resolution regional weather model</a>, satellite imagery, and rooftop solar panel generation. I advised Tony Lorenzo's papers on <a href="http://dx.doi.org/10.1016/j.solener.2015.10.038">network forecasts of solar irradiance</a> and <a href="https://forecasting.energy.arizona.edu/media/Lorenzo_et_al_2016_Optimal_Interpolation_of_satellite_derived_irradiance_and_ground_data.pdf">optimal interpolation of satellite imagery for solar irradiance resource assessment</a>. Learn more about our forecasting work at <a href="https://forecasting.energy.arizona.edu">forecasting.energy.arizona.edu</a>.
+I make solar and wind power forecasts for utilities in the Southwest US using data from the <a href="http://www.atmo.arizona.edu/index.php?section=weather&id=wrf">UA high resolution regional weather model</a>, satellite imagery, and rooftop solar panel generation. I advised Tony Lorenzo's papers on <a href="http://dx.doi.org/10.1016/j.solener.2015.10.038">network forecasts of solar irradiance</a> and <a href="https://forecasting.energy.arizona.edu/media/Lorenzo_et_al_2016_Optimal_Interpolation_of_satellite_derived_irradiance_and_ground_data.pdf">optimal interpolation of satellite imagery for solar irradiance resource assessment</a>, Travis Harty's paper on an <a href="https://forecasting.energy.arizona.edu/media/papers/Harty_2019_Intra_hour_cloud_index_submitted.pdf">ensemble Kalman filter for intra-hour cloud forecasts</a>, and Patrick Bunn's paper on <a href="https://forecasting.energy.arizona.edu/media/papers/Bunn_2020_geos5_accepted.pdf">assessing GEOS-5 aerosol data for improving operational solar forecasts</a>. Learn more about our forecasting work at <a href="https://forecasting.energy.arizona.edu">forecasting.energy.arizona.edu</a>.
 </p>
 
 <p>
@@ -37,7 +37,11 @@ I collaborated with the SVERI utilities to produce a report on solar and wind po
 </p>
 
 <p>
-I lead a team in creating sveri.energy.arizona.edu, an interactive website that showed real-time generation and load data from 7 utilities in the Southwest US. The page is now retired.
+I led a team in creating sveri.energy.arizona.edu, an interactive website that showed real-time generation and load data from 7 utilities in the Southwest US. The page is now retired.
+</p>
+
+<p>
+With collaborators at the <a href="https://climas.arizona.edu/">Climate Assessment for the Southwest</a> and Tucson Electric Power, I created a simple open source framework for analyzing the consistency of TEP's portfolio's submitted under its 2020 Integrated Resource plan. See the code <a href="https://github.com/CLIMAS-UA/tepcarbon">here</a>.
 </p>
 
 <p>
@@ -81,15 +85,15 @@ Hiking, rock climbing, biking from A to B.
 <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span class="octicon octicon-link"></span></a>Collaborators</h3>
 
 <p>
-Solar Forecast Arbiter: Tony Lorenzo, Leland Boeman, Cliff Hansen (Sandia), Aidan Tuohy (Electric Power Research Institute), Justin Sharp (Sharply Focused)
+Solar Forecast Arbiter: Tony Lorenzo, Leland Boeman, Cliff Hansen (Sandia), Aidan Tuohy (Electric Power Research Institute), Justin Sharp (Sharply Focused), David Larson (EPRI), Adam Wigington (EPRI), Tassos Golnas (DOE SETO)
 </p>
 
 <p>
-Forecasting at UA: Mike Leuthold, Tony Lorenzo, Leland Boeman, Travis Harty, Matti Morzfeld, Eric Betterton, Ardeth Barnhart, Alex Cronin, Yang Cao, Chang Ki Kim, Daniel Cormode, Rey Granillo, Mike Eklund
+Forecasting at UA: Mike Leuthold, Tony Lorenzo, Leland Boeman, Travis Harty, Matti Morzfeld, Chris Castro, Patrick Bunn, Eric Betterton, Ardeth Barnhart, Alex Cronin, Yang Cao, Chang Ki Kim, Daniel Cormode, Rey Granillo, Mike Eklund
 </p>
 
 <p>
-pvlib python: Cliff Hansen, Mark Mikofski, and many other <a href="https://github.com/pvlib/pvlib-python/graphs/contributors">contributors</a> to the project.
+pvlib python: Cliff Hansen, Mark Mikofski, Kevin Anderson, and many other <a href="https://github.com/pvlib/pvlib-python/graphs/contributors">contributors</a> to the project.
 </p>
 
 <p>
